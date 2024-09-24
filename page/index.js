@@ -22,3 +22,24 @@ for (let i = 1; i <= 100;i++){
     }
 
 }
+
+
+//part 2: prime Time
+
+let n = 5;
+for (let x = 2; x < n; x++){
+    if (x % 2 === 0 ) 
+    {
+        n++;
+        console.log(n);
+        break;
+        
+    }
+    else 
+    {
+       
+    }
+};
+
+
+
